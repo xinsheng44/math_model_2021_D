@@ -1,0 +1,35 @@
+['ETA_Eta_F' 'SaaCH' 'VPC-4' 'VP-4' 'CrippenLogP' 'ATSm4' 'minHBint4'
+ 'SP-7' 'SP-6' 'ATSp4' 'MLFER_BH' 'MDEC-33' 'BCUTp-1l' 'ETA_Eta_B'
+ 'minaaCH' 'maxHBint10' 'maxwHBa' 'MDEC-23' 'SPC-4' 'SHBd' 'AMR' 'SaasC'
+ 'VC-3' 'VCH-7' 'ATSc1' 'maxHaaCH' 'Kier3' 'nHBAcc' 'maxaasC' 'SHaaCH'
+ 'SwHBa' 'bpol' 'maxsOH' 'SsOH' 'SP-5' 'MLFER_L' 'ALogP' 'DELS2' 'minHsOH'
+ 'LipoaffinityIndex' 'minsOH' 'WTPT-5' 'ATSc2' 'maxHBint5' 'BCUTc-1l'
+ 'XLogP' 'ATSc3' 'ATSc5' 'minHBint10' 'ATSc4']2021-10-15 14:22:24[16 16 17 17 17 17 18 18 18 18 18 18 19 19 19 19 19 19 19 20 20 21 21 21
+ 22 23 23 24 25 25 26 29 31 31 31 32 33 34 36 36 38 39 39 41 42 47 56 60
+ 66 69]['ETA_Eta_F' 'SaaCH' 'VPC-4' 'VP-4' 'CrippenLogP' 'ATSm4' 'minHBint4'
+ 'SP-7' 'SP-6' 'ATSp4' 'MLFER_BH' 'MDEC-33' 'BCUTp-1l' 'ETA_Eta_B'
+ 'minaaCH' 'maxHBint10' 'maxwHBa' 'MDEC-23' 'SPC-4' 'SHBd' 'AMR' 'SaasC'
+ 'VC-3' 'VCH-7' 'ATSc1' 'maxHaaCH' 'Kier3' 'nHBAcc' 'maxaasC' 'SHaaCH'
+ 'SwHBa' 'bpol' 'maxsOH' 'SsOH' 'SP-5' 'MLFER_L' 'ALogP' 'DELS2' 'minHsOH'
+ 'LipoaffinityIndex' 'minsOH' 'WTPT-5' 'ATSc2' 'maxHBint5' 'BCUTc-1l'
+ 'XLogP' 'ATSc3' 'ATSc5' 'minHBint10' 'ATSc4']2021-10-15 14:24:51[16 16 17 17 17 17 18 18 18 18 18 18 19 19 19 19 19 19 19 20 20 21 21 21
+ 22 23 23 24 25 25 26 29 31 31 31 32 33 34 36 36 38 39 39 41 42 47 56 60
+ 66 69]['ETA_Eta_F' 'SaaCH' 'VPC-4' 'VP-4' 'CrippenLogP' 'ATSm4' 'minHBint4'
+ 'SP-7' 'SP-6' 'ATSp4' 'MLFER_BH' 'MDEC-33' 'BCUTp-1l' 'ETA_Eta_B'
+ 'minaaCH' 'maxHBint10' 'maxwHBa' 'MDEC-23' 'SPC-4' 'SHBd' 'AMR' 'SaasC'
+ 'VC-3' 'VCH-7' 'ATSc1' 'maxHaaCH' 'Kier3' 'nHBAcc' 'maxaasC' 'SHaaCH'
+ 'SwHBa' 'bpol' 'maxsOH' 'SsOH' 'SP-5' 'MLFER_L' 'ALogP' 'DELS2' 'minHsOH'
+ 'LipoaffinityIndex' 'minsOH' 'WTPT-5' 'ATSc2' 'maxHBint5' 'BCUTc-1l'
+ 'XLogP' 'ATSc3' 'ATSc5' 'minHBint10' 'ATSc4']2021-10-15 15:08:16
+ 
+ [16 16 17 17 17 17 18 18 18 18 18 18 19 19 19 19 19 19 19 20 20 21 21 21
+ 22 23 23 24 25 25 26 29 31 31 31 32 33 34 36 36 38 39 39 41 42 47 56 60
+ 66 69]
+['ETA_Eta_F' 'SaaCH' 'VPC-4' 'VP-4' 'CrippenLogP' 'ATSm4' 'minHBint4'
+ 'SP-7' 'SP-6' 'ATSp4' 'MLFER_BH' 'MDEC-33' 'BCUTp-1l' 'ETA_Eta_B'
+ 'minaaCH' 'maxHBint10' 'maxwHBa' 'MDEC-23' 'SPC-4' 'SHBd' 'AMR' 'SaasC'
+ 'VC-3' 'VCH-7' 'ATSc1' 'maxHaaCH' 'Kier3' 'nHBAcc' 'maxaasC' 'SHaaCH'
+ 'SwHBa' 'bpol' 'maxsOH' 'SsOH' 'SP-5' 'MLFER_L' 'ALogP' 'DELS2' 'minHsOH'
+ 'LipoaffinityIndex' 'minsOH' 'WTPT-5' 'ATSc2' 'maxHBint5' 'BCUTc-1l'
+ 'XLogP' 'ATSc3' 'ATSc5' 'minHBint10' 'ATSc4']
+2021-10-15 15:41:04
